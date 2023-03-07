@@ -1,16 +1,18 @@
 {
   "posts": [
     {
-      "id" : 1,
-      "userId": 1,
-      "title": "hello",
-      "body": "hehehe"
-    },{
-      "id" : 2,
-      "userId": 2,
-      "title": "Dion",
-      "body": "Test"
-    }
+      "genus": "Fragaria",
+      "name": "Strawberry",
+      "family": "Rosaceae",
+      "order": "Rosales",
+      "nutritions": {
+          "carbohydrates": 5.5,
+          "protein": 0,
+          "fat": 0.4,
+          "calories": 29,
+          "sugar": 5.4
+      }
+  }
   ],
   "profile": {
     "name": "typicode"
